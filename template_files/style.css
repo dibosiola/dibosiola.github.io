@@ -135,7 +135,7 @@ td {
 
 #main_info_container{
 	position: relative;
-	margin-left: 265px;
+	margin-left: 350px;
 	width: 665px;
 	padding-left: 0px;
 	font-size:14px;
@@ -272,7 +272,7 @@ a#logo {
 
 #main_navigation  ul {
 	right: 0px;
-	width: 453px;
+	width: 300px;
 	height: 30px;
 	margin: 0px auto;
 	z-index:-1;
